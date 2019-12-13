@@ -1,1 +1,1 @@
-# instabot_trial_0
+a first stab at creating an instagram bot with selenium
