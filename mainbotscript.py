@@ -30,7 +30,7 @@ class InstagramBot:
 
 
 if __name__ == "__main__":
-    ig_bot = InstagramBot("mr_magpie2020", "f9ptENkcPYUznCD")
+    ig_bot = InstagramBot("xcvxc", "xcvx")
     ig_bot.nav_user('realmadrid')
 
 
